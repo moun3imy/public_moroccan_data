@@ -1,7 +1,7 @@
 # public_moroccan_data
 This repository aims at providing useful data about about different sectors and facets of morocco, all in json format.
 ## will contain specification about the formats of the different data files
-### 1.Specification for moroccan_cities.json
+### 1. moroccan_cities.json
 moroccan_cities.json contains data about morocco different cities.
 the spec will be written with the [json-generator](http://www.json-generator.com/) style (read their help for full details) : 
 ```js
@@ -26,6 +26,7 @@ the spec will be written with the [json-generator](http://www.json-generator.com
     '{{repeat(number_of_neighborhoods)}}',
     {
     neighborhood:,
+    population :,
     Coordinates:,
     Postal_code :
      }
