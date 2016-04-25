@@ -1,27 +1,27 @@
 [
 {
-"Region" : '';
-"Mayor" : '';
-"Coordinates" : '';
-"Area" : '';
-"Highest_Elevation" : ;
-"Lowest_Elevation" : ;
-"population_city" : ;
+"Region" : '',
+"Mayor" : '',
+"Coordinates" : '',
+"Area" : '',
+"Highest_Elevation" : ,
+"Lowest_Elevation" : ,
+"population_city" : ,
 "density" : ;
-"population_rank_morocco" : ;
-"population_metro" : ;
-"website" : ;
-"foundation_date": ;
+"population_rank_morocco" : ,
+"population_metro" : ,
+"website" : ,
+"foundation_date": ,
 "list_neighborhoods" : [
-{"neighborhood" : ;
-"Coordinates":; 
-"Postal_Code" : },
-{"neighborhood" : ;
-"Coordinates":; 
-"Postal_Code" : }
-
-
-
+  {
+    "neighborhood" : ,
+  "Coordinates":,
+  "Postal_Code" : 
+  },
+  {"neighborhood" : ,
+  "Coordinates":,
+  "Postal_Code" : 
+  }
 ]
 }
 
