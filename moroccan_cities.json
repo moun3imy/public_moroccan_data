@@ -1,6 +1,6 @@
 [
 {
-"City": "";
+"City": "",
 "Region" : "",
 "Mayor" : "",
 "Postal_code":"",
@@ -9,7 +9,7 @@
 "Highest_Elevation" : ,
 "Lowest_Elevation" : ,
 "population_city" : ,
-"density" : ;
+"density" : ,
 "population_rank_morocco" : ,
 "population_metro" : ,
 "website" : "" ,
